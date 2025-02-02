@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Employee database",
+    "desc": "Employee Database is a secure and user-friendly platform to manage employee records, track performance, and streamline HR processes efficiently.",
+    "image": "instagrammern",
+    "category": "mern",
+    "links": {
+      "view": "https://islchandana1.pythonanywhere.com/",
+      "code": "https://github.com/INAPAKRUTHIKASRILALITHACHANDANA/employeedatabase"
+    }
+  },
+  {
+    "name": "Image Upload",
+    "desc": "Image Upload Using Django allows users to upload and manage images easily with secure storage and validation.",
+    "image": "flipkartmern",
+    "category": "mern",
+    "links": {
+      "view": "https://islchandana4.pythonanywhere.com/",
+      "code": "https://github.com/INAPAKRUTHIKASRILALITHACHANDANA/imageupload"
+    }
+  },
+  {
+    "name": "Crud Operations",
+    "desc": "CRUD Operations: An app to Create, Read, Update, and Delete records with ease.",
+    "image": "resumegen",
+    "category": "mern",
+    "links": {
+      "view": "https://islchandana2.pythonanywhere.com/",
+      "code": "https://github.com/INAPAKRUTHIKASRILALITHACHANDANA/crudoperations"
+    }
+  },
+  {
+    "name": "To-do",
+    "desc": "To-Do Application: A simple tool to manage tasks and boost productivity.",
+    "image": "reactprojects",
+    "category": "mern",
+    "links": {
+      "view": "https://islchandana3.pythonanywhere.com/",
+      "code": "https://github.com/INAPAKRUTHIKASRILALITHACHANDANA/todo"
+    }
+  },
+  {
+    "name": "Video-Tutorials",
+    "desc": "Video Tutorials: A platform to create, share, and learn from engaging video lessons.",
+    "image": "flipkartphp",
+    "category": "lamp",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "Travel Yari Application",
+    "desc": "Travel Yari: A travel companion app that simplifies the process of planning, booking, and exploring travel destinations.",
+    "image": "foodicious",
+    "category": "basicweb",
+    "links": {
+      "view": "https://inapakruthikasrilalithachandana.github.io/Travelyari/",
+      "code": "https://github.com/INAPAKRUTHIKASRILALITHACHANDANA/Travelyari"
+    }
+  },
+  {
+    "name": "Teacher's Day Website",
+    "desc": "Teacher's Day Website is a platform dedicated to celebrating the hard work, dedication, and impact of educators.",
+    "image": "jspro",
+    "category": "android",
+    "links": {
+      "view": "https://inapakruthikasrilalithachandana.github.io/teachersday/",
+      "code": "https://github.com/INAPAKRUTHIKASRILALITHACHANDANA/teachersday"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Portfolio Website is a personalized online space where individuals, especially professionals and creatives, showcase their work, skills, and accomplishments.",
+    "image": "portfolio1",
+    "category": "android",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "NewYear Website",
+    "desc": "The New Year Website serves as a vibrant digital space to celebrate the arrival of the new year.",
+    "image": "composey",
+    "category": "android",
+    "links": {
+      "view": "https://inapakruthikasrilalithachandana.github.io/Newyear/",
+      "code": "https://github.com/INAPAKRUTHIKASRILALITHACHANDANA/Newyear"
+    }
+  },
+  {
+    "name": "Independence's Day Website",
+    "desc": "The Independence Day Website is a tribute to the nation’s history, freedom, and the spirit of independence.",
+    "image": "webviewapp",
+    "category": "android",
+    "links": {
+      "view": "https://inapakruthikasrilalithachandana.github.io/independencceday/",
+      "code": "https://github.com/INAPAKRUTHIKASRILALITHACHANDANA/independencceday"
+    }
+  },
+  {
+    "name": "Friendship Day Website",
+    "desc": "The Friendship Day Website is dedicated to celebrating the bonds of friendship.",
+    "image": "bootstrapportfolio",
+    "category": "android",
+    "links": {
+      "view": "https://inapakruthikasrilalithachandana.github.io/Friendshipday/",
+      "code": "https://github.com/INAPAKRUTHIKASRILALITHACHANDANA/Friendshipday"
+    }
+  },
+  {
+    "name": "Sweets Website",
+    "desc": "The Sweets Website is a delightful online platform dedicated to all things sweet! It offers a wide range of desserts, candies, and baked goods, allowing users to browse through a variety of options for every occasion.",
+    "image": "bootstraptemplate",
+    "category": "android",
+    "links": {
+      "view": "https://inapakruthikasrilalithachandana.github.io/sweets/",
+      "code": "https://github.com/INAPAKRUTHIKASRILALITHACHANDANA/sweets"
+    }
+  },
+  {
+    "name": "Foodie Application",
+    "desc": "The Foodie Application is a food lover's dream come true! This app helps users discover new eateries, read reviews, and share their own food experiences.",
+    "image": "foodwebsite",
+    "category": "basicweb",
+    "links": {
+      "view": "https://inapakruthikasrilalithachandana.github.io/foodieapplication/",
+      "code": "https://github.com/INAPAKRUTHIKASRILALITHACHANDANA/foodieapplication"
+    }
+  },
+  {
+    "name": "College-Fees App",
+    "desc": "The College Fees Website is an essential platform designed to simplify the process of fee payments for students and their families.",
+    "image": "basicbank",
+    "category": "basicweb",
+    "links": {
+      "view": "https://inapakruthikasrilalithachandana.github.io/College-fees/",
+      "code": "https://github.com/INAPAKRUTHIKASRILALITHACHANDANA/College-fees"
+    }
+  }
+]
